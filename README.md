@@ -1,8 +1,8 @@
 # Challenge_Epigene_Labs
 
-The following project aims at preprocessing data from a clinical study in order to make them comparable to other data form other studies. The project contains the followings :
+The following project aims at preprocessing data from a clinical study in order to make them comparable to other sequencing data form other studies. The project contains the followings :
 
-An input directories which contains clinical data to preprocess for 2 samples from one experiment. The input directory needs to be unzipped before performing the script:
+An input directories which contains clinical data to preprocess for 2 samples from one experiment. The input directory needs to be unzipped before performing the script and then contains:
 
     a metadata file 
     a barcodes file for each sample : 
